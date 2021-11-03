@@ -38,7 +38,7 @@ int _strlen(char *s)
 }
 
 /**
-* _strncmp - "compares two strings up to n bytes"
+* _strncmp - compares two strings up to n bytes
 * @s1: compared to s2
 * @s2: compared to s1
 * @n: number of bytes
